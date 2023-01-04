@@ -182,3 +182,7 @@ main .content{
 .sol:hover{
  transform: rotate(5deg);
 }
+
+.tiannah:hover {
+ transform: rotate(-5deg);
+}
